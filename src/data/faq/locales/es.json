@@ -1,0 +1,122 @@
+[
+  {
+    "id": "status",
+    "q": "¿Dónde verifico si los trucos de Delta Force están en línea?",
+    "a": "El banner de estado en vivo está en {siteDomain} y en el canal #status de Discord. Siempre verifique después de una actualización de Delta Force o anti-cheat."
+  },
+  {
+    "id": "after-buy",
+    "q": "¿Qué pasa después de comprar?",
+    "a": "Su portal desbloquea el cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar Delta Force."
+  },
+  {
+    "id": "ban-risk",
+    "q": "¿Me pueden banear por usar trucos de terceros en Delta Force?",
+    "a": "Sí, cualquier modificación conlleva riesgos. anti-cheat y los sistemas de informes evolucionan. Lea el estado actual y acepte el riesgo antes de su uso. Consulta nuestra guía de <a href=\"/blog/delta-force-cheat-not-working-after-update/\">trucos de anti-cheat y Delta Force</a> para conocer el contexto."
+  },
+  {
+    "id": "platforms",
+    "q": "¿Qué plataformas son compatibles?",
+    "a": "Delta Force solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
+  },
+  {
+    "id": "license-move",
+    "q": "¿Puedo transferir mi licencia a una nueva PC?",
+    "a": "Sí, use el restablecimiento de HWID en su portal o abra un ticket de Discord. Los límites dependen de su nivel."
+  },
+  {
+    "id": "products-page",
+    "q": "¿Dónde se enumeran los productos y utilidades?",
+    "a": "<a href=\"/product/\">Delta Force Cheats</a> y <a href=\"/hwid-spoofer/\">HWID Spoofer</a> son los dos productos que vendemos, listas de funciones y pago a través de nuestro socio."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "¿Qué es Delta Force ESP?",
+    "a": "Player ESP muestra PMC, Scavs y jefes con cajas, esqueletos y lecturas de distancia. Loot ESP destaca contenedores y artículos valiosos.<a href=\"/product/\">Delta Force Cheats</a> incluye superposiciones de reconocimiento más aimbot opcional y módulos sin retroceso."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "¿Cuál es la diferencia entre ESP y aimbot?",
+    "a": "ESP y aspectos destacados del botín son superposiciones de información; no mueven tu punto de mira. Aimbot, sin retroceso y disparador son asistencias de combate en <a href=\"/product/\">Delta Force Cheats</a>, ajustadas por separado en el cargador."
+  },
+  {
+    "id": "elite-slots",
+    "q": "¿Por qué son limitadas las plazas de Delta Force Cheats?",
+    "a": "Delta Force Cheats es una compilación privada con soporte directo de desarrolladores y entrega prioritaria de parches. El límite de plazas mantiene rápidos los ciclos de parches. Consulte el banner de estado antes de realizar el pago."
+  },
+  {
+    "id": "stream-proof",
+    "q": "¿Puede OBS capturar mi superposición?",
+    "a": "El modo a prueba de transmisión en <a href=\"/product/\">Delta Force Cheats</a> oculta superposiciones de OBS y Discord share. Pruebe una grabación local antes de emitirla."
+  },
+  {
+    "id": "build-status",
+    "q": "¿La build seguirá en línea después de cada parche?",
+    "a": "No. El estado en línea se muestra en la página del producto y en el banner de estado únicamente en el momento de la compra. Deténgase si la compilación muestra actualización, prueba o fuera de línea después de una actualización de anti-cheat."
+  },
+  {
+    "id": "esp-safer",
+    "q": "¿Es el ESP más discreto que el aimbot?",
+    "a": "El ESP suele ser menos obvio que el aimbot al máximo, pero sigue siendo una trampa. anti-cheat no ignora las superposiciones porque dejaste desactivada la asistencia para apuntar."
+  },
+  {
+    "id": "hwid-when",
+    "q": "¿Cuándo debo agregar HWID Spoofer a mi configuración?",
+    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> es para cuando los nuevos inicios de sesión de Delta Force mueren en una PC pero tienen éxito en otra parte: aplicación de hardware, no resultados de anti-cheat solo para la cuenta. Después de que los identificadores verifiquen que están limpios, empareje una cuenta nueva con <a href=\"/product/\">Delta Force Cheats</a> y verifique el estado en {siteDomain} antes de atacar."
+  },
+  {
+    "id": "external-loader",
+    "q": "¿El cargador se inyecta en la carpeta del juego?",
+    "a": "DELTA FORCE CHEAT se ejecuta de forma externa con sincronización de configuración en la nube, no se inyectan archivos en el directorio Delta Force. El riesgo de anti-cheat aún se aplica. Consulte <a href=\"/product/\">Delta Force Cheats</a>."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "¿Los códigos de trucos de blogs son lo mismo que los trucos de incursiones en vivo?",
+    "a": "No. Los artículos de blog sobre pruebas locales o sin conexión no reemplazan el cargador en vivo. Las incursiones de PMC utilizan <a href=\"/product/\">Delta Force Cheats</a> cuando el estado está en línea."
+  },
+  {
+    "id": "blog-setup",
+    "q": "¿Dónde indican la compra las guías de configuración de blogs?",
+    "a": "Las guías enlazan con <a href=\"/product/\">Delta Force Cheats</a> y <a href=\"/hwid-spoofer/\">HWID Spoofer</a>. El pago se realiza a través de nuestro socio, nunca pegue archivos de carga de mensajes directos aleatorios de Discord."
+  },
+  {
+    "id": "who-cheats",
+    "q": "¿Quién debería comprar trucos de Delta Force?",
+    "a": "Asaltantes de PMC que quieren ESP de jugador, ESP de botín, aimbot, sin retroceso y entrega de parches prioritarios cuando hay espacios abiertos."
+  },
+  {
+    "id": "vac-update",
+    "q": "¿Qué debo hacer después de una actualización de anti-cheat?",
+    "a": "Verifique el estado de {siteDomain} y el #status de Discord. No lo inicie hasta que el banner se muestre en línea. Cargue ajustes preestablecidos conservadores después de cualquier parche."
+  },
+  {
+    "id": "discord-help",
+    "q": "¿Cómo obtengo ayuda para la instalación?",
+    "a": "Abra Discord después de la compra con el correo electrónico de su pedido, la versión de Windows y la compilación del cliente Delta Force. El personal recorre en vivo la configuración del cargador."
+  },
+  {
+    "id": "pmc-scav-raids",
+    "q": "¿Los módulos funcionan en raids PMC y Scav?",
+    "a": "Sí.<a href=\"/product/\">Delta Force Cheats</a> incluye ajustes preestablecidos de PMC y Scav en el portal. Ajusta los límites de distancia ESP y apunta suavemente antes de tu primera incursión."
+  },
+  {
+    "id": "zoom-hack",
+    "q": "¿Qué nivel incluye radar y extracción de ESP?",
+    "a": "El radar 2D y los marcadores de extracción vienen con <a href=\"/product/\">Delta Force Cheats</a>. Úsalos para orientarte entre combates y planificar extracciones."
+  },
+  {
+    "id": "trigger-bot",
+    "q": "¿El producto incluye disparador bot?",
+    "a": "El robot disparador opcional se envía con <a href=\"/product/\">Delta Force Cheats</a> junto con aimbot y sin retroceso. Comience con ajustes preestablecidos de retraso conservadores en el portal."
+  },
+  {
+    "id": "private-cheats",
+    "q": "¿Qué son los trucos privados de Delta Force?",
+    "a": "Privado significa claves por usuario y compilaciones mantenidas, no paquetes zip públicos. DELTA FORCE CHEAT envía la entrega del portal para el conjunto completo de incursiones en una licencia de trucos."
+  },
+  {
+    "id": "faq-more",
+    "q": "¿Dónde están las preguntas frecuentes completas?",
+    "a": "Este sitio incluye preguntas frecuentes sobre aterrizaje y secciones por página. Consulte las <a href=\"/faq/\">Preguntas frecuentes completas</a> para conocer todas las respuestas sobre productos, trucos y blogs, o lea las <a href=\"/blog/\">guías de blogs</a> para obtener guías detalladas."
+  }
+]

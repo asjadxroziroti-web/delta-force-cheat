@@ -1,0 +1,42 @@
+{
+  "/": {
+    "title": "Cheats Delta Force | ESP, aimbot et loot ESP",
+    "description": "ESP joueurs, loot ESP, aimbot et contrôles configurables pour Delta Force sous Windows. Comparez les offres sur {siteDomain}."
+  },
+  "/product/": {
+    "title": "Cheats Delta Force | Acheter ESP, loot ESP et aimbot",
+    "description": "Pack Delta Force avec ESP joueurs, filtres de loot, aimbot et contrôles configurables. Formules mensuelles et à vie sur {siteDomain}."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer | Réinitialisation matérielle Windows",
+    "description": "Réinitialisez disque, MAC et GPU quand de nouveaux comptes échouent sur un même PC. Suivez la checklist du portail et vérifiez les changements sur {siteDomain}."
+  },
+  "/blog/": {
+    "title": "Guides de cheats Delta Force | Réglages ESP, aimbot et patchs",
+    "description": "Guides de configuration, réglages ESP et aim, filtres de loot et checklists de statut Delta Force publiés sur {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Forum des cheats Delta Force | Setup, statut et sujets HWID",
+    "description": "Discussions Delta Force en lecture seule sur la configuration, les patchs et les guides. Les nouveaux sujets et réponses sont fermés."
+  },
+  "/faq/": {
+    "title": "FAQ des cheats Delta Force | Setup, offres et support",
+    "description": "Réponses sur les cheats Delta Force : installation, offres mensuelles et à vie, modules ESP et aim, statut et aide au paiement sur {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Conditions de vente et d'utilisation de la licence",
+    "description": "Règles de remboursement, limites de licence, livraison à la caisse et divulgation des risques pour les produits vendus via {siteDomain}."
+  },
+  "/privacy/": {
+    "title": "Politique de confidentialité | Données d'analyse et d'assistance",
+    "description": "Comment {siteDomain} utilise les cookies, les analyses et les informations que vous envoyez lors de l'ouverture d'un ticket d'assistance."
+  },
+  "/about/": {
+    "title": "À propos de Delta Force Cheat",
+    "description": "Qui publie les ressources Delta Force, les notes d'état et les canaux d'assistance sur {siteDomain}."
+  },
+  "/support/": {
+    "title": "Support des cheats Delta Force | Loader, HWID et paiement",
+    "description": "Contactez les opérateurs Discord pour l'accès au portail, les erreurs de module et les questions de facturation avant ou après le paiement sur {siteDomain}."
+  }
+}

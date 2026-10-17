@@ -1,0 +1,42 @@
+{
+  "/": {
+    "title": "Delta Force Cheats | ESP, Aimbot & Loot-ESP",
+    "description": "Spieler-ESP, Loot-ESP, Aimbot und konfigurierbare Kontrollen für Delta Force unter Windows. Pläne auf {siteDomain} vergleichen."
+  },
+  "/product/": {
+    "title": "Delta Force Cheats | ESP, Loot ESP & Aimbot kaufen",
+    "description": "Delta-Force-Paket mit Spieler-ESP, Loot-Filtern, Aimbot und konfigurierbaren Kontrollen. Monats- und Lifetime-Pläne auf {siteDomain}."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer | Hardware-Reset für Windows",
+    "description": "Festplatten-, MAC- und GPU-Kennungen zurücksetzen, wenn neue Accounts auf einem PC scheitern. Portal-Checkliste mit Wiederherstellungspunkten, Spoof-Schritten und Verifikation auf {siteDomain}."
+  },
+  "/blog/": {
+    "title": "Delta Force Cheat Guides | ESP-Setup, Aimbot & Patch-Notizen",
+    "description": "Setup-Anleitungen, ESP- und Aim-Tuning, Loot-Filter und Status-Checklisten für Delta Force auf {siteDomain}."
+  },
+  "/forum/": {
+    "title": "Delta Force Cheats Forum | Setup-, Status- & HWID-Threads",
+    "description": "Schreibgeschützte Delta-Force-Diskussionen zu Konfiguration, Patches und Guides. Neue Threads und Antworten sind geschlossen."
+  },
+  "/faq/": {
+    "title": "Delta Force Cheats FAQ | Setup, Pläne & Support",
+    "description": "Antworten zu Delta Force Cheats: Setup, Monats- und Lifetime-Pläne, ESP- und Aim-Module, Status und Checkout-Hilfe auf {siteDomain}."
+  },
+  "/terms/": {
+    "title": "Verkaufsbedingungen und Lizenznutzung",
+    "description": "Rückerstattungsregeln, Lizenzbeschränkungen, Lieferung an der Kasse und Offenlegung von Risiken für Produkte, die über {siteDomain} verkauft werden."
+  },
+  "/privacy/": {
+    "title": "Datenschutz | Analyse- und Supportdaten",
+    "description": "Wie {siteDomain} Cookies, Analysen und die Informationen verwendet, die Sie beim Öffnen eines Support-Tickets senden."
+  },
+  "/about/": {
+    "title": "Über Delta Force Cheat",
+    "description": "Wer veröffentlicht Delta-Force-Ressourcen, Statusnotizen und Supportkanäle auf {siteDomain}?"
+  },
+  "/support/": {
+    "title": "Delta Force Cheats Support | Loader-, HWID- & Checkout-Hilfe",
+    "description": "Wenden Sie sich vor oder nach dem Bezahlen auf {siteDomain} an die Discord-Betreiber, wenn Sie Fragen zum Portalzugriff, zu Modulfehlern und zu Fragen zur Rechnung haben."
+  }
+}

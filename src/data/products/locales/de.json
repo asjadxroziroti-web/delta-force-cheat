@@ -1,0 +1,135 @@
+{
+  "sharedGoodToKnow": "Delta Force und anti-cheat erhalten regelmäßig Updates. Bestätigen Sie die Modulverfügbarkeit im Live-Statusbereich unter {siteDomain}, bevor Sie es kaufen oder starten. Cloud DMA ist ein separater Kauf, wenn die volle Funktionalität erforderlich ist.",
+  "sharedLimitations": "Software von Drittanbietern in Delta Force kann gegen die Bedingungen von Battlestate Games verstoßen und zu anti-cheat-Sperren oder Kontoaktionen führen. Sie nutzen diese Software auf eigenes Risiko. Kompatibilität und Verfügbarkeit können sich nach Spiel-, anti-cheat- oder Windows-Updates ohne Vorankündigung ändern.",
+  "acquisitionSteps": [
+    {
+      "num": "01",
+      "title": "Überprüfen Sie den aktuellen Status",
+      "desc": "Überprüfen Sie vor dem Kauf das Live-Banner auf {siteDomain} und Discord #status, insbesondere nach einem Delta Force- oder anti-cheat-Update."
+    },
+    {
+      "num": "02",
+      "title": "Wählen Sie Ihre Zugriffsstufe",
+      "desc": "Wählen Sie Delta Force Cheats oder das Dienstprogramm, das Ihrem Ziel entspricht. Sehen Sie sich die Funktionsliste vor dem Bezahlen über unseren Partner-Checkout an."
+    },
+    {
+      "num": "03",
+      "title": "Kontaktieren Sie das Team",
+      "desc": "Öffnen Sie Discord und bestätigen Sie die Verfügbarkeit, die Windows-Einrichtung und die Zahlungsdetails, während Ihre Bestell-E-Mail bereit ist."
+    },
+    {
+      "num": "04",
+      "title": "Folgen Sie der geführten Einrichtung",
+      "desc": "Verwenden Sie ausschließlich das Betreiberportal, den Patch-Loader und die Einrichtungsanleitung. Testen Sie offline, laden Sie Voreinstellungen und führen Sie dann PMC-Raids durch, wenn der Status „Online“ lautet."
+    }
+  ],
+  "systemRequirements": [
+    "Windows 10 oder 11 64-Bit (Intel oder AMD).",
+    "Stabiler Internet- und Loader-Zugang nach dem Kauf.",
+    "Aktueller Delta Force-Client; Überprüfen Sie den Status nach größeren Patches.",
+    "Cloud DMA ist ein separater Kauf, wenn die volle Funktionalität erforderlich ist."
+  ],
+  "gallery": [
+    {
+      "alt": "Delta Force-Egoperspektive mit Spieler-ESP, der rot hervorgehobene Figuren, Skelettumrisse und Entfernungsmarkierungen in einem sonnenbeschienenen Industriehof zeigt.",
+      "caption": "Spieler-ESP bei Tageslicht-Raids",
+      "captionDesc": "Rote und grüne Spieler-Highlights, Skelett-Drahtgitter und Entfernungsanzeigen auf einer Industriekarte im Freien."
+    },
+    {
+      "alt": "Delta Force-Nachtsichtszene mit skelettierten ESP-, PMC- und Scav-Etiketten und Zählerständen, die durch Innenwände sichtbar sind.",
+      "caption": "Skelett-ESP bei Nacht",
+      "captionDesc": "Strichmännchenskelette, Namensschilder und Entfernungsmarkierungen durch Wände in einem grün getönten Indoor-Raid."
+    },
+    {
+      "alt": "Delta Force-Ziel aus der ersten Person mit roten Wallhack-Silhouetten und Waffenetiketten, die durch eine Betonwand im Freien sichtbar sind.",
+      "caption": "ESP durch Hardcover",
+      "captionDesc": "Rote feindliche Silhouetten und Waffenrufe, die durch eine Betonbarriere gerendert werden, während sie auf das Visier zielen."
+    }
+  ],
+  "tiers": {
+    "elite": {
+      "about": [
+        {
+          "type": "p",
+          "text": "Diese Lizenz deckt die wichtigsten Delta Force-Raids mit Player-ESP, Loot-ESP, Aimbot, No Recoil, Radar und Extraktionshelfern ab. Arena ist ein separater Produktschlüssel. Cloud DMA ist optional, wenn Sie vollständigen Hardware-Pass-Through benötigen."
+        },
+        {
+          "type": "h2",
+          "text": "Schalten Sie ein, bevor Sie in die Warteschlange kommen"
+        },
+        {
+          "type": "p",
+          "text": "Laden Sie die Portalvoreinstellungen zunächst offline, erhöhen Sie dann die ESP-Distanz und die Zielglättung über mehrere Sitzungen hinweg. Discord-Mitarbeiter helfen bei Loader-Registerkarten, wenn nach einem anti-cheat-Patch ein Modulkonflikt auftritt."
+        }
+      ],
+      "body": [
+        {
+          "type": "h2",
+          "text": "Pläne und Lieferung"
+        },
+        {
+          "type": "p",
+          "text": "Wählen Sie an der Kasse monatlich (35 $) oder lebenslang (150 $). Das Betreiberportal wird sofort mit Loader-Download, Preset-Bibliothek und Patchnotizen freigeschaltet. Überprüfen Sie vor jeder Sitzung das Live-Statusbanner."
+        },
+        {
+          "type": "h2",
+          "text": "Modullayout"
+        },
+        {
+          "type": "p",
+          "text": "ESP, Beute, Ziel, Waffen, Radar und Dienstprogramme verfügen jeweils über eine eigene Lader-Registerkarte, sodass Sie die Kampfhilfen deaktivieren und gleichzeitig die Beutefilter während der Stash-Läufe beibehalten können."
+        }
+      ],
+      "overview": {
+        "title": "Eine Lizenz für PMC-Raids unter Windows",
+        "paragraphs": [
+          "Delta Force Cheats bündelt Bewusstseins- und Kampfmodule für Hauptangriffe: Spieler- und Beute-ESP, Aimbot, kein Rückstoß, Radar, Extraktionsmarkierungen und stromsichere Overlays. Der Loader gruppiert die Einstellungen nach Registerkarten, sodass Sie reine Beuteprofile oder vollständige Kampf-Loadouts ausführen können.",
+          "Die Lizenzen decken Windows 10 und 11 auf Intel oder AMD ab. Nur Raid-Zugriff, Arena ausgeschlossen; Fügen Sie Cloud DMA separat hinzu, wenn Ihr Setup dies erfordert. Monats- und Lebenszeitpläne werden an der Kasse aufgelistet, bestätigen Sie den Online-Status auf {siteDomain}, bevor Sie kaufen oder starten."
+        ]
+      },
+      "goodToKnow": "Delta Force und anti-cheat erhalten regelmäßig Updates. Bestätigen Sie die Modulverfügbarkeit im Live-Statusbereich unter {siteDomain}, bevor Sie es kaufen oder starten. Cloud DMA ist ein separater Kauf, wenn die volle Funktionalität erforderlich ist.",
+      "limitations": "Software von Drittanbietern in Delta Force kann gegen die Bedingungen von Battlestate Games verstoßen und zu anti-cheat-Sperren oder Kontoaktionen führen. Sie nutzen diese Software auf eigenes Risiko. Kompatibilität und Verfügbarkeit können sich nach Spiel-, anti-cheat- oder Windows-Updates ohne Vorankündigung ändern.",
+      "acquisitionTitle": "So erhalten Sie Delta Force Cheats"
+    }
+  },
+  "utilities": {
+    "hwid-spoofer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Signalisiert, dass dieses Dienstprogramm passt"
+        },
+        {
+          "type": "p",
+          "text": "Greifen Sie zu, wenn neue Delta Force-Anmeldungen auf einem Computer sofort fehlschlagen, auf einem anderen jedoch erfolgreich sind, typische Hardware-Durchsetzung. Überspringen Sie es für Account-only-anti-cheat-Ergebnisse. Kombinieren Sie ein sauberes Konto mit konservativen Voreinstellungen von [Delta Force Cheats](/product/), sobald die Kennungen frisch aussehen. Führen Sie zunächst den Portal-Kompatibilitätsscan durch, erstellen Sie einen Snapshot eines Windows-Wiederherstellungspunkts und bestätigen Sie nach einem Kaltstart, dass sich die Kennungen tatsächlich geändert haben, bevor Sie das Spiel öffnen."
+        },
+        {
+          "type": "h2",
+          "text": "Checklistenbestellung"
+        },
+        {
+          "type": "p",
+          "text": "Wiederherstellungspunkt, Treiberbereinigung, Spoof-Pass, Kaltstart, Identifizierungsüberprüfung, dann ein Low-Profile-Cheat-Profil vor dem Raid. Das Portal und der HWID-Blog-Leitfaden spiegeln dieselbe Schrittreihenfolge wider. Stapeln Sie nicht zwei Spoof-Tools. Gemeinsam genutzte PCs oder Arbeits-PCs sind möglicherweise nicht geeignet. Änderungen auf Treiberebene bleiben Ihr Risiko, lesen Sie die Statusseite auf {siteDomain} vor dem Auschecken und erneut vor der Veröffentlichung."
+        },
+        {
+          "type": "h2",
+          "text": "Systemanforderungen"
+        },
+        {
+          "type": "p",
+          "text": "Führe es unter 64-Bit Windows 10 oder 11 mit einem Administratorkonto aus. Lege zuerst einen Windows-Wiederherstellungspunkt an, halte die Verbindung stabil, während die Prüftools im Portal laufen, und schließe jeden Schritt der Portal-Anleitung ab, bevor du Delta Force wieder öffnest."
+        }
+      ],
+      "overview": {
+        "title": "Hardware-First-Wiederherstellung für markierte Rigs",
+        "paragraphs": [
+          "anti-cheat kann Sperren mit PC-Fingerabdrücken verknüpfen, während das Delta Force-Konto noch sauber aussieht. Dieses Dienstprogramm bündelt Festplatten-, MAC- und GPU-ID-Tools mit einer Checkliste für Wiederherstellungspunkte, einem Portal-Kompatibilitätsscan und Aufforderungen zur Überprüfung nach dem Neustart, um Änderungen vor einem erneuten Raid zu bestätigen.",
+          "Entscheiden Sie sich dafür, wenn brandneue Konten auf einer Anlage zusammenbrechen, woanders aber funktionieren, und nicht, wenn die Strafe nur auf das Konto beschränkt ist. Laden Sie nach dem Spoofing konservative Voreinstellungen von {siteDomain} und bestätigen Sie das Live-Status-Banner vor Ihrer ersten PMC-Sitzung."
+        ]
+      },
+      "goodToKnow": "Führen Sie den Portal-Kompatibilitätsscan durch, bevor ein Spoofing durchgeführt wird. Erstellen Sie zunächst einen Snapshot eines Windows-Wiederherstellungspunkts. Bestätigen Sie nach einem Kaltstart die Änderungen der Kennung, bevor Sie Delta Force starten.",
+      "limitations": "Entwickelt für Flags auf Hardwareebene, nicht für anti-cheat-Einschränkungen nur für das Konto. Führen Sie niemals zwei Spoof-Tools gleichzeitig aus. Gemeinsam genutzte PCs oder Arbeits-PCs sind möglicherweise ungeeignet. Änderungen auf Fahrerebene bleiben Ihr Risiko; Lesen Sie vor dem Bezahlen die Statusseite auf {siteDomain}.",
+      "acquisitionTitle": "So erhalten Sie den HWID-Spoofer"
+    }
+  }
+}

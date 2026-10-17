@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+
+Sitemap: https://deltaforcecheat.org/sitemap.xml
+
+# RSS: https://deltaforcecheat.org/rss.xml
