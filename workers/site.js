@@ -19,7 +19,7 @@ const SECURITY_CSP = [
   "connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://www.googletagmanager.com",
   "frame-ancestors 'self'",
   "base-uri 'self'",
-  "form-action 'self' https://zadeyo.com",
+  "form-action 'self' https://levocheats.com",
   "object-src 'none'",
 ].join('; ');
 

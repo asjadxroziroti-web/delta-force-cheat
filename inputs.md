@@ -2,9 +2,9 @@
 
 domain: deltaforcecheat.org
 primary keyword: delta force cheat
-product ref url: https://zadeyo.com/go/ASJADD?to=%2Fproducts%2Fdelta-force
+product ref url: https://levocheats.com/go/ASJADD?to=%2Fdelta-force-cheats
 game: delta force
-our product url for price: https://zadeyo.com/products/delta-force-cheats
+our product url for price: https://levocheats.com/delta-force-cheats
 another product url for idea: https://stratx.ac/delta-force-cheats
 
 ## Secondary keywords

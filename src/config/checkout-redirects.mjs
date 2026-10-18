@@ -3,8 +3,8 @@
  * Visible buy buttons use `/go/…` from `checkout.ts`. These URLs are the 302 targets only.
  */
 export const CHECKOUT_URLS = {
-  deltaForce: 'https://zadeyo.com/go/ASJADD?to=%2Fproducts%2Fdelta-force',
-  hwidSpoofer: 'https://zadeyo.com/go/ASJADD?to=%2Fproducts%2Fhwid-spoofer',
+  deltaForce: 'https://levocheats.com/go/ASJADD?to=%2Fdelta-force-cheats',
+  hwidSpoofer: 'https://levocheats.com/go/ASJADD?to=%2Fhwid-spoofer',
 };
 
 const DELTA_FORCE_CHECKOUT = CHECKOUT_URLS.deltaForce;

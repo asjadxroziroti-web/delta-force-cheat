@@ -773,7 +773,7 @@ html:not(.dark) .deployment-cta-secondary:hover {
   }
 }
 
-/* Purple brand text on near-black. Fills and buttons stay on --primary. */
+/* Blue brand text on near-black. Fills and buttons stay on --primary. */
 html.dark .text-primary {
   color: var(--primary-text);
 }
