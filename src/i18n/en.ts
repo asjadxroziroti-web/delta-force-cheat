@@ -22,9 +22,9 @@ export const en: Translations = {
   ],
   hero: {
     status: 'Delta Force, current build status',
-    eyebrow: 'DELTA FORCE CHEAT',
+    eyebrow: 'DELTA FORCE PC TOOLKIT',
     titleLine1: 'Delta Force',
-    titleLine2: 'Cheat for PC',
+    titleLine2: 'Cheat for Windows PC',
     subtitle:
       'Use player and loot ESP, configurable aim, chams, radar, FOV controls, and third-person view across Delta Force Operations and large-scale Warfare matches on a supported Windows setup.',
     ctaPrimary: 'View products',
