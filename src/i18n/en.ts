@@ -245,7 +245,7 @@ export const en: Translations = {
   cheats: {
     eyebrow: 'Main product',
         title: 'Delta Force Cheats',
-    subtitle: 'Player ESP, loot ESP, aimbot, chams, FOV controls, and configuration tools for Delta Force.',
+    subtitle: 'Compare current cheat plans, feature coverage, and checkout options for Delta Force.',
     viewAll: 'View product details',
     explore: 'Explore',
     items: [
@@ -475,10 +475,10 @@ export const en: Translations = {
     explore: 'Explore',
     exploreLinks: [
       { id: 'products', href: '/', label: 'Feature overview', ariaLabel: 'Features', scrollTarget: 'features' },
-      { id: 'products', href: productBase, label: 'Product', ariaLabel: 'Product' },
-      { id: 'hwidSpoofer', href: '/hwid-spoofer/', label: 'HWID Spoofer', ariaLabel: 'HWID Spoofer' },
-      { id: 'blog', href: '/blog/', label: 'Blog', ariaLabel: 'Blog' },
-      { id: 'forum', href: '/forum/', label: 'Forum', ariaLabel: 'Forum' },
+      { id: 'products', href: productBase, label: 'Compare products', ariaLabel: 'Product comparison' },
+      { id: 'hwidSpoofer', href: '/hwid-spoofer/', label: 'HWID protection', ariaLabel: 'HWID protection' },
+      { id: 'blog', href: '/blog/', label: 'Read the guides', ariaLabel: 'Guides and updates' },
+      { id: 'forum', href: '/forum/', label: 'Open the forum', ariaLabel: 'Community forum' },
     ],
     supportLinks: [
       { href: '/faq/', label: 'Pre-purchase FAQ', ariaLabel: 'FAQ' },
