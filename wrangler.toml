@@ -8,12 +8,12 @@ compatibility_date = "2026-09-12"
 command = "npm run build"
 
 [[routes]]
-pattern = "eftcheat.net"
-custom_domain = true
+pattern = "deltaforcecheat.org/*"
+zone_name = "deltaforcecheat.org"
 
 [[routes]]
-pattern = "www.eftcheat.net"
-custom_domain = true
+pattern = "www.deltaforcecheat.org/*"
+zone_name = "deltaforcecheat.org"
 
 [assets]
 directory = "./dist"
