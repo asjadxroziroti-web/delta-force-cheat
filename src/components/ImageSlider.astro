@@ -37,7 +37,7 @@ const count = images.length;
         <figure class="hero-auto__slide aspect-[16/10] overflow-hidden bg-muted/30">
           <ResponsiveImage
             src={img.src}
-            alt={i === count ? '' : img.alt}
+            alt={i === count ? `${img.alt} (carousel loop)` : img.alt}
             width={960}
             height={540}
             widths={HERO_IMAGE_WIDTHS}

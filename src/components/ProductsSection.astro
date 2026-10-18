@@ -86,11 +86,11 @@ function cardTags(product: ProductPage): string[] {
 
                 <div class="mt-1 flex flex-col gap-2 sm:flex-row">
                   <Button as="a" href={product.buyUrl} variant="primary" size="sm" class="sm:flex-1">
-                    {s.buyNow}
+                    {s.buyNow}: {product.name}
                     <Icon name="arrowRight" size={17} />
                   </Button>
                   <Button as="a" href={pageHref} variant="outline" size="sm" class="sm:flex-1">
-                    {s.viewDetails}
+                    {s.viewDetails}: {product.name}
                     <Icon name="arrowRight" size={17} />
                   </Button>
                 </div>
