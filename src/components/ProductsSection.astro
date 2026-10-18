@@ -58,9 +58,9 @@ function cardTags(product: ProductPage): string[] {
                     <Icon name={cardIcon(product)} size={18} />
                   </span>
                   <div class="min-w-0 space-y-1">
-                    <h3 class="font-[family-name:var(--font-heading)] text-base font-bold leading-tight text-foreground md:text-lg">
+                    <p role="heading" aria-level="3" class="font-[family-name:var(--font-heading)] text-base font-bold leading-tight text-foreground md:text-lg">
                       <a href={pageHref} class="hover:text-primary">{product.title}</a>
-                    </h3>
+                    </p>
                     <p class="text-sm font-medium leading-snug text-neutral-600 dark:text-neutral-300">
                       {cardSubtitle(product)}
                     </p>

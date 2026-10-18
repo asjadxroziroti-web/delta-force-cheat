@@ -38,9 +38,9 @@ const lastRowIndex = why.rows.length - 1;
           {
             why.rows.map((row) => (
               <div class="why-compare-feature-row flex flex-col justify-center gap-2">
-                <h3 class="font-[family-name:var(--font-heading)] text-lg font-bold leading-snug text-foreground md:text-xl">
+                <p role="heading" aria-level="3" class="font-[family-name:var(--font-heading)] text-lg font-bold leading-snug text-foreground md:text-xl">
                   {row.title}
-                </h3>
+                </p>
                 <p class="text-sm leading-relaxed text-muted-foreground">
                   {row.desc}
                 </p>
@@ -213,9 +213,9 @@ const lastRowIndex = why.rows.length - 1;
                   class="deployment-step-marker-icon"
                 />
               </div>
-              <h3 class="deployment-step-title" style={`--step-col: ${i + 1}`}>
+              <p role="heading" aria-level="3" class="deployment-step-title" style={`--step-col: ${i + 1}`}>
                 {step.title}
-              </h3>
+              </p>
             </li>
           ))
         }

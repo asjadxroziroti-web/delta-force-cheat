@@ -19,6 +19,7 @@ const legalLinks = [
         <a href={lp('/')} class="inline-flex items-center gap-2.5 font-[family-name:var(--font-heading)] text-lg font-bold" aria-label={t.ui.homeAria}>
           <BrandLogo size={32} class="rounded-md" />
           <span aria-hidden="true">DELTA<span class="text-primary">FORCE</span></span>
+          <span class="sr-only"> footer home</span>
         </a>
         <p class="text-sm text-muted-foreground">{t.footer.tagline}</p>
       </div>
@@ -35,6 +36,7 @@ const legalLinks = [
                 {...(link.scrollTarget ? { 'data-scroll-target': link.scrollTarget } : {})}
               >
                 {link.label}
+                <span class="sr-only"> footer link</span>
               </a>
             </li>
           ))}
@@ -52,6 +54,7 @@ const legalLinks = [
                 data-nav-link
               >
                 {link.label}
+                <span class="sr-only"> footer support link</span>
               </a>
             </li>
           ))}
